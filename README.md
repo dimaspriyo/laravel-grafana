@@ -1,5 +1,8 @@
 Publish Laravel Log to Grafana
 
+![Screenshot](log.png)
+
+
 Reference Links:
 - https://github.com/minhajul/laravel-grafana
 - https://computingforgeeks.com/forward-logs-to-grafana-loki-using-promtail/
