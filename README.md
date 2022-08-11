@@ -1,7 +1,9 @@
-Publish Laravel Log to Grafana
+# Publish Laravel Log to Grafana
 
 ![Screenshot](log.png)
 
+## How To Run
+> sudo docker-compose up -d
 
 Reference Links:
 - https://github.com/minhajul/laravel-grafana
