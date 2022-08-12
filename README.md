@@ -4,9 +4,9 @@
 
 ## How To Run
 
-> sudo docker-compose up -d
-
-> curl localhost/api/log
+1. sudo docker-compose up -d
+2. Add loki to grafana data source with http://loki:3100
+3. curl localhost/api/log 
 
 Reference Links:
 - https://github.com/minhajul/laravel-grafana
