@@ -3,7 +3,10 @@
 ![Screenshot](log.png)
 
 ## How To Run
+
 > sudo docker-compose up -d
+
+> curl localhost/api/log
 
 Reference Links:
 - https://github.com/minhajul/laravel-grafana
